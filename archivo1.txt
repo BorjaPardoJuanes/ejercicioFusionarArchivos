@@ -1,2 +1,6 @@
 Hola pendejo
+<<<<<<< HEAD
 Soy Borja
+=======
+Soy el dios Edgar
+>>>>>>> origin/ramaEdgar

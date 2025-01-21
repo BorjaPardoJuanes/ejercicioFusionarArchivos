@@ -1,3 +1,7 @@
 Adiós jaja
+<<<<<<< HEAD
 
 Hola jeje
+=======
+Ali Zegaa Alos
+>>>>>>> origin/RamaAli
